@@ -3,10 +3,10 @@ name = "secure-data-encryption"
 version = "0.1.0"
 description = "A simple Streamlit-based data protection app"
 readme = "README.md"
-package-mode = false  # Disables root install, correct for a Streamlit app
+package-mode = false
 
 [tool.poetry.dependencies]
-python = "^3.12"  # Changed from ">=3.12" to "^3.12" for stricter compatibility
+python = "^3.12"
 streamlit = "^1.32.0"
 cryptography = "^42.0.0"
 
