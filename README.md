@@ -1,5 +1,9 @@
 # 🔒 Secure Data Encryption System
 
+## 🌐 Live Project
+
+👉 [Click here to use the app](https://data-protection-system.streamlit.app/)
+
 ## Project Description
 
 The **Secure Data Encryption System** is a Streamlit-based web application that allows users to safely **store** and **retrieve** text data through encryption. It offers a simple, user-friendly interface while maintaining data confidentiality using strong encryption algorithms.
@@ -31,4 +35,4 @@ The **Secure Data Encryption System** is a Streamlit-based web application that 
 
 ---
 
-**Made with by [Fazilat Jahan](https://www.linkedin.com/in/fazilat-jahan-web-developer/)**
+**Made by [Fazilat Jahan](https://www.linkedin.com/in/fazilat-jahan-web-developer/)**
