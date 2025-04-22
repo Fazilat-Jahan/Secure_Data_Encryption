@@ -1,12 +1,15 @@
 [tool.poetry]
 name = "secure-data-encryption"
 version = "0.1.0"
-description = "Add your description here"
+description = "A simple Streamlit-based data protection app"
 readme = "README.md"
-requires-python = ">=3.12"
-package-mode = false
+package-mode = false  # ✅ This disables the root install
 
 [tool.poetry.dependencies]
 python = ">=3.12"
 streamlit = "^1.32.0"
 cryptography = "^42.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
